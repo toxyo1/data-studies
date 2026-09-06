@@ -12,6 +12,6 @@ Este é um repositório em constante construção, e novos conteúdos serão adi
 Está estudando Python também e ficou com alguma dúvida? Sinta-se à vontade para entrar em contato comigo pelo **LinkedIn** ou por **e-mail**. Será um prazer conversar e ajudar no que eu puder! 😊
 
 🔗 **LinkedIn:** [www.linkedin.com/in/marian-lopes999](http://www.linkedin.com/in/marian-lopes999)
-📧 **E-mail:** mailto:marian-321@hotmail.com
+📧 **E-mail:** marian-321@hotmail.com
 
 Se este material te ajudar nos estudos, fique à vontade para deixar uma estrela no repositório!
