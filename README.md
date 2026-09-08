@@ -2,11 +2,7 @@
 Repositório criado para organizar meus estudos na área de Dados e também ajudar outras pessoas que precisem. Aqui você encontrará materiais resumidos e de fácil entendimento, começando pelos fundamentos e avançando gradualmente para conceitos mais complexos.
 
 ## 📚 Sobre o material
-Este é um repositório em constante construção, e novos conteúdos serão adicionados gradativamente. Todos os materiais seguem a mesma estrutura:
-
-* 📖 **Teoria** — Conceitos e explicações dos conteúdos;
-* 💻 **Exercícios** — Atividades para praticar e fixar o conhecimento;
-* ✅ **Resoluções** — Soluções dos exercícios para conferência e estudo.
+Este é um repositório em constante construção, e novos conteúdos serão adicionados gradativamente.
 
 ## 💬 Dúvidas e sugestões
 Está estudando sobre dados e ficou com alguma dúvida? Sinta-se à vontade para entrar em contato comigo pelo **LinkedIn** ou por **e-mail**. Será um prazer conversar e ajudar no que eu puder! 😊
